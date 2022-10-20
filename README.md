@@ -3,8 +3,8 @@
 ### Funcionalidades:
 ****
 
-**- Criação de Pedido**
-**- Registro de Cliente**
-**- Sistema de Pagamento (virtualizado)**
-**- Geração de Nota Fiscal**
-**- Gerência Completa de Estoque**
+- Criação de Pedido
+- Registro de Cliente
+- Sistema de Pagamento (virtualizado)
+- Geração de Nota Fiscal
+- Gerência Completa de Estoque
